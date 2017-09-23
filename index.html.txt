@@ -5,6 +5,11 @@
 </head>
 </html>
 aayo?
+<<<<<<< HEAD
 uhasuidknaskd
 adnakjda
 asdjasdk
+=======
+uhlala uhalal
+k lehne lekhne
+>>>>>>> c049c2bc90e23e47df1db33b9feaf8c1f3b9d5c5
